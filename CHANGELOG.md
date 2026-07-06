@@ -2,7 +2,7 @@
 
 ## v0.2.1 — generic edition
 - Rebranded to a company-neutral course: all "DH / Delivery Hero" references and brand names removed, guardrails and lessons made generic so anyone can take it.
-- L3.2 reworked from "DH's Skill Library" (an internal shared repo) into **Build Your Own Skill Library** — skills as a personal shelf you grow.
+- L3.2 replaced: the DH-specific skill-library lesson became **Find & Trust a Skill** — discovering skills you didn't build and vetting one before you run it (no company-specific skills named).
 - Fictional demo brand standardized to **QuickMart / SwiftCart**; persona guide stays **Sam**.
 - Built on `course-tutor-template`.
 

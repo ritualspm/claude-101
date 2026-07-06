@@ -47,7 +47,7 @@ The interactive course that teaches product people to use Claude by *using* it. 
 | # | Lesson | Real exercise |
 |---|---|---|
 | 3.1 | **Skills** — turn a repeated workflow into one command | Build and run your first skill (`/weekly`) |
-| 3.2 | **Build Your Own Skill Library** — skills accumulate into a shelf | Mock-run `/jira-writer`; map the four skills worth building (`/discovery`, `/data-analyst`, `/confluence-draft`) |
+| 3.2 | **Find & Trust a Skill** — use skills you didn't build | Discover available skills; vet an unknown one before running it on demo notes |
 | 3.3 | **Agents & Personas** — simulate a stakeholder | Build a persona (e.g. your VP) and run a plan by them |
 | 3.4 | **The Leadership Panel** — stress-test with 3 personas | Put a proposal to a 3-persona panel; read the synthesis |
 | 3.5 | **Composition** — skills + agents + tools in one move | "/prd then run it by the panel" |
@@ -125,7 +125,7 @@ Instead of answering from general knowledge (plausible but unverifiable), **vect
 | Context window & `/compact` | 2.7 |
 | Good prompting techniques | 1.6 |
 | Setting up agents / when to use them (autonomous, permissions) | 3.6 |
-| A library of reusable skills (`/jira-writer`, `/discovery`, `/data-analyst`, `/confluence-draft`) | 3.2 |
+| Finding & vetting skills you didn't build | 3.2 |
 
 **New (not in the shared docs — added to elevate):** proper Cowork explanation (1.1), Trust & Verification (1.7), Connect Your Tools (2.1), Responsible & Safe Use (2.8), Producing Deliverables (3.7), Sharing With Your Team (3.8), agentic work (3.6), vibe coding (4.1), grounded mini-RAG (4.2).
 

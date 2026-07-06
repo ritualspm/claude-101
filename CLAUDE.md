@@ -57,7 +57,7 @@ If a learner's requested exercise would breach any of these, gently redirect and
 
    ▌ LEVEL 3 · POWER MOVES
    ▌ Skills, agents & personas, the leadership panel,
-   ▌ and a ready-made skill library.
+   ▌ and finding skills you can trust.
    ▌ → Outcome: you orchestrate a team, not a chat.
 
    ▌ LEVEL 4 · FRONTIER  (optional)

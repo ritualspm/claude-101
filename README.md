@@ -54,7 +54,7 @@ Built for **product people** who are new to Claude. It assumes zero technical ba
 
 **Level 3 · Power Moves**
 - `L3.1` Skills — turn a repeated workflow into one command
-- `L3.2` Build Your Own Skill Library — grow a shelf of reusable skills (`/jira-writer`, `/discovery`, `/data-analyst`, `/confluence-draft`)
+- `L3.2` Find & Trust a Skill — discover skills you didn't build, and size one up before you run it
 - `L3.3` Agents & Personas — simulate a stakeholder
 - `L3.4` The Leadership Panel — stress-test a plan with three personas
 - `L3.5` Composition — chain skills + agents + tools in one move
