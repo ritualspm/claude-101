@@ -1,0 +1,19 @@
+From: Sofia Berg (VP Product)
+To: Priya
+Date: 2026-06-19
+Subject: Reorder — where are we?
+
+Hi Priya,
+
+Leadership review is Monday and reorder is on the agenda. I need three things from you by Friday EOD:
+
+1. A one-paragraph status I can read to the room — plain language, no jargon.
+2. The launch date. I keep hearing "soon" — I need a date or a clear reason we don't have one yet.
+3. Whether the early test numbers justify the eng investment. Be honest if it's underwhelming.
+
+Also: the fee-transparency point came up with Legal. Please confirm the delivery fee is visible before payment in the new flow.
+
+Keep it short. I have 4 of these reviews back to back.
+
+Thanks,
+Sofia

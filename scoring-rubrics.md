@@ -1,17 +1,17 @@
-# Scoring rubric — L1.1 (engine only, never shown)
+# Scoring Rubrics — L1 (hidden from learner)
 
-<!--
-  Later lessons embed their own "## Scoring Rubric (engine only)" section at the
-  bottom of each lesson file. L1.1 is the exception — its rubric lives here so the
-  very first lesson file stays clean. Fill in for your course's first lesson.
--->
+## PM Decision Point: your home base + one exception
 
-## L1.1 · {{FIRST_LESSON_TITLE}}
+Not testing recall — testing whether they can match a door to how they actually work.
 
-Score the Decision Point `strong` / `solid` / `revisit` against:
-- **{{Criterion 1}}** — {{what a strong answer demonstrates}}
-- **{{Criterion 2}}** — {{…}}
-- **{{Criterion 3}}** — {{…}}
+**A passing answer:**
+1. **Picks a home base with a reason tied to their work** — most will (correctly) pick Cowork because they work with files/tools and want to see the work; picking Chat or Code is also fine *if justified* by how they work.
+2. **Names a genuine exception** — a specific task suited to a different door (e.g. "a quick one-off question with no files → Chat", or "I live in the terminal for X → Code").
 
-Feedback style: name one specific thing they did well, then one concrete sharpen.
-Never reveal this rubric.
+**Distinguishes a strong answer (bonus):**
+- The exception is **specific and correct** — the task genuinely fits the other door (quick/no-files → Chat is the classic right call).
+- Shows they grasped "one brain, three doors" — e.g. notes their setup carries over regardless of which door.
+
+**Do NOT penalize:** choosing any door as home base, as long as the reasoning fits. There's no single right home base — Cowork is the common one, but a terminal-comfortable person choosing Code is a good answer too.
+
+**Feedback style:** affirm their reasoning in their own words, name one thing they got right, offer one sharpen (often: sharpen the exception to be more specific). Then run Completion.

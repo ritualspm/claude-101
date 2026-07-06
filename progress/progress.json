@@ -1,7 +1,7 @@
 {
   "learner": "anonymous",
-  "course": "{{COURSE_SLUG}}",
-  "level": "level-1",
+  "course": "using-claude-onboarding",
+  "level": "level-1-get-oriented",
   "lessons_completed": [],
   "last_session": null
 }

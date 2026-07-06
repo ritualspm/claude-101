@@ -1,0 +1,13 @@
+ticket_id,week,category,summary,resolution
+T-1001,2026-06-01,ID verification,ID upload keeps failing - says photo blurry,Advised retake in daylight - resolved
+T-1002,2026-06-01,Payments,When do I get paid? Cannot find earnings screen,Sent payments FAQ link
+T-1003,2026-06-02,Equipment,Went to wrong hub for bag pickup,Gave correct hub address
+T-1004,2026-06-02,ID verification,Upload failed 3 times then worked,No action - self resolved
+T-1005,2026-06-03,Onboarding flow,Lost onboarding checklist after login,Explained checklist lives under Profile
+T-1006,2026-06-03,Documents,Did not know which documents were required,Sent document list
+T-1007,2026-06-04,Payments,How do I see my earnings for this week,Sent earnings screen walkthrough
+T-1008,2026-06-04,ID verification,ID photo rejected repeatedly,Escalated - possible upload bug
+T-1009,2026-06-05,Equipment,Equipment pickup instructions unclear,Clarified hub hours
+T-1010,2026-06-05,Onboarding flow,Cannot find how to set myself available,Pointed to Availability toggle
+T-1011,2026-06-06,Documents,Required documents not shown before signup,Logged as feedback
+T-1012,2026-06-06,Verification email,Verification email took 2 days,Apologized - no root cause given

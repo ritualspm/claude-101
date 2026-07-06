@@ -1,0 +1,21 @@
+FAKE DEMO CODE — a tiny slice of a fictional ETA service, for a training exercise.
+Not real code. You do NOT need to read code to do this lesson —
+this file exists only so you can see that a "grounded" answer can trace to a
+codebase, not just to docs. Skim it in plain English if you like.
+
+--- eta_service config ---
+
+# How many minutes of padding we ADD to the raw model estimate before showing it.
+DISPLAY_PADDING_MINUTES = 4
+
+# If we cannot compute an estimate, fall back to this many minutes.
+FALLBACK_ETA_MINUTES = 35
+
+--- eta_service logic (described in plain words) ---
+
+displayed_eta = raw_model_estimate + DISPLAY_PADDING_MINUTES
+
+Plain-English translation:
+- The service takes the model's raw guess of how long delivery will take.
+- It ADDS 4 minutes of padding on top before showing the customer.
+- The "4" here matches the decision written up in eta-experiment.md.

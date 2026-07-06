@@ -15,7 +15,7 @@ This is how to publish a new version to Drive without drift.
    ```bash
    ./release.sh
    ```
-   Output: `dist/<course>-v0.2.0/` and `.zip`
+   Output: `dist/pv-claude-course-v0.2.0/` and `.zip`
 5. Upload to the course's Google Drive:
    - Replace the **latest** folder with the new one.
    - Move the previous version into an `/archive` subfolder (don't delete).
@@ -23,7 +23,7 @@ This is how to publish a new version to Drive without drift.
 
 ## What `release.sh` guarantees
 - **Includes** `.claude/` (the permissions folder Drive/zips often drop).
-- **Excludes** `.git` and dev-only files (`release.sh`, `RELEASE.md`, `VERSION`, `CHANGELOG.md`, `SYLLABUS.md`, `TEMPLATE-GUIDE.md`, the lesson template, `dist`).
+- **Excludes** `.git` and dev-only files (`release.sh`, `RELEASE.md`, `VERSION`, `CHANGELOG.md`, `SYLLABUS.md`, `dist`).
 - **Resets** `progress.json` so downloaders start fresh.
 - **Stamps** `VERSION.txt` so any Drive copy traces back to this repo.
 
