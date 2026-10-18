@@ -4,6 +4,8 @@
 
 ### Learn Claude by *using* Claude.
 
+#### A free course by **[rituals.pm](https://rituals.pm)**
+
 A hands-on onboarding that teaches you to actually work with Claude — not by watching slides, but by doing one real win at a time, right inside the app.
 
 **You open a folder, type `go`, and a guide named Sam walks you through it.**
@@ -185,7 +187,7 @@ progress/          learner progress (local, per machine)
 
 <div align="center">
 
-Made with care by **[rituals.pm](https://rituals.pm)** — AI-native product craft.
+Made with care by **[rituals.pm](https://rituals.pm)** — Elevating product taste.
 
 **_Learn Claude by using Claude._**
 
