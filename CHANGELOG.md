@@ -2,9 +2,10 @@
 
 ## v0.2.1 — generic edition
 - **Public launch on GitHub** (`ritualspm/claude-101`): new front-door README, GitHub-first download (latest Release ZIP) replacing the old Google Drive flow; packaging + release docs updated to match.
+- **Guide renamed to Ritto** (after rituals.pm), with a short origin intro in the welcome and first greeting. README copy humanized, em dashes removed.
 - Rebranded to a company-neutral course: all "DH / Delivery Hero" references and brand names removed, guardrails and lessons made generic so anyone can take it.
 - L3.2 replaced: the DH-specific skill-library lesson became **Find & Trust a Skill** — discovering skills you didn't build and vetting one before you run it (no company-specific skills named).
-- Fictional demo brand standardized to **QuickMart / SwiftCart**; persona guide stays **Sam**.
+- Fictional demo brand standardized to **QuickMart / SwiftCart**; persona guide is **Ritto**.
 - Built on `course-tutor-template`.
 
 ## v0.2.0 — full course (test build)

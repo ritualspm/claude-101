@@ -8,7 +8,7 @@ Week of 29 Sep
 
 ## Wed
 - One-tap reorder A/B test switched on for 5% of the Testburg market.
-- Sam Sample flagged: checkout error rate looked spiky Tue night, now back to normal — suspected a bad deploy, rolled back.
+- Sara Sample flagged: checkout error rate looked spiky Tue night, now back to normal — suspected a bad deploy, rolled back.
 
 ## Fri
 - Reorder A/B early read: conversion +2.1pts vs control (tiny sample, do not quote yet).

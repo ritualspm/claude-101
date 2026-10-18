@@ -8,7 +8,7 @@
 
 A hands-on onboarding that teaches you to actually work with Claude. Not by watching slides, but by doing one real thing at a time, right inside the app.
 
-**You open a folder, type `go`, and a guide named Sam takes it from there.**
+**You open a folder, type `go`, and a guide named Ritto takes it from there.**
 
 <br>
 
@@ -39,6 +39,8 @@ No experience needed. No code, ever. If you can open an app and type, you're rea
 
 > Think of it as your first full day with Claude, squeezed into 25 small wins.
 
+**Meet Ritto, your guide.** The name comes from rituals.pm, and it's the whole idea behind the course: getting good with Claude isn't one big trick, it's a handful of small rituals you repeat until they're second nature. Ritto is warm, a little playful, and allergic to lectures. It learns your name, keeps things moving, and builds those rituals with you one win at a time.
+
 ---
 
 ## ⚡ Start in 60 seconds
@@ -56,7 +58,7 @@ You only need the **Claude desktop app**. [Grab it here](https://claude.ai/downl
 </tr>
 <tr>
 <td align="center"><h2>3</h2></td>
-<td><b>Type <code>go</code></b><br>Sam says hello and starts Lesson 1. Your progress saves on its own, right on your machine.</td>
+<td><b>Type <code>go</code></b><br>Ritto says hello and starts Lesson 1. Your progress saves on its own, right on your machine.</td>
 </tr>
 </table>
 
@@ -130,7 +132,7 @@ That's it. Nothing to sign up for, nothing to install beyond the app itself.
 | `menu` | Show the four levels again |
 | `resume` | Pick up mid-way |
 
-…or just ask Sam anything, whenever.
+…or just ask Ritto anything, whenever.
 
 ---
 
