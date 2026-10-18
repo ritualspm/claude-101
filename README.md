@@ -185,6 +185,17 @@ progress/          learner progress (local, per machine)
 
 ---
 
+## 📄 License
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-15103E?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Claude 101 © 2026 **rituals.pm**, licensed under [**CC BY-NC 4.0**](LICENSE).
+
+**You may** take the course, share it, and adapt it — for free, with credit to rituals.pm.
+**You may not** use it commercially (resell it, put it behind a paywall, or rebrand it as your own paid offering). For commercial use, [get in touch](https://rituals.pm).
+
+---
+
 <div align="center">
 
 Made with care by **[rituals.pm](https://rituals.pm)** — Elevating product taste.
