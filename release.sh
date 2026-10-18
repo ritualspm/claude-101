@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Package a clean, Google-Drive-ready copy of the course from this repo.
+# Package a clean, learner-ready copy of the course from this repo.
+# Attach the resulting zip to a GitHub Release.
 # Run from the repo root:  ./release.sh
 set -euo pipefail
 cd "$(dirname "$0")"
 
 VERSION="$(cat VERSION 2>/dev/null || echo 'dev')"
-NAME="pv-claude-course-v${VERSION}"
+NAME="claude-101-v${VERSION}"
 OUT="dist/${NAME}"
 
 rm -rf "$OUT"
@@ -35,16 +36,16 @@ cat > "$OUT/progress/progress.json" <<'JSON'
 }
 JSON
 
-# Stamp the version so the Drive copy is traceable back to this repo.
+# Stamp the version so any copy is traceable back to this repo.
 echo "v${VERSION}" > "$OUT/VERSION.txt"
 
-# Zip (includes hidden .claude/) for easy Drive upload.
+# Zip (includes hidden .claude/) for a one-click learner download.
 ( cd dist && rm -f "${NAME}.zip" && zip -r -q "${NAME}.zip" "${NAME}" )
 
 echo "✅ Packaged:"
-echo "   dist/${NAME}/        (folder — upload this, or...)"
-echo "   dist/${NAME}.zip     (zip — easier for Drive)"
+echo "   dist/${NAME}/        (folder)"
+echo "   dist/${NAME}.zip     (zip — attach this to the GitHub Release)"
 echo
 echo "   Includes: .claude/ (permissions), lessons, CLAUDE.md, README."
 echo "   Excludes: .git, dev/source files.  Progress reset to fresh."
-echo "   → Upload to the course's Google Drive 'latest' folder."
+echo "   → Attach the zip to a new release at github.com/ritualspm/claude-101/releases"
