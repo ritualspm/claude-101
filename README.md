@@ -6,9 +6,9 @@
 
 #### A free course by **[rituals.pm](https://rituals.pm)**
 
-A hands-on onboarding that teaches you to actually work with Claude — not by watching slides, but by doing one real win at a time, right inside the app.
+A hands-on onboarding that teaches you to actually work with Claude. Not by watching slides, but by doing one real thing at a time, right inside the app.
 
-**You open a folder, type `go`, and a guide named Sam walks you through it.**
+**You open a folder, type `go`, and a guide named Sam takes it from there.**
 
 <br>
 
@@ -17,11 +17,11 @@ A hands-on onboarding that teaches you to actually work with Claude — not by w
 ![Time](https://img.shields.io/badge/~20_min_a_lesson-4FE5B8?style=for-the-badge&labelColor=15103E)
 ![No code](https://img.shields.io/badge/zero_code-needed-15103E?style=for-the-badge)
 
-**Runs inside the Claude desktop app · built for product people · no terminal, no setup**
+**Runs inside the Claude desktop app. Built for product people. No terminal, no setup.**
 
 <br>
 
-### [⬇️  Download the course →](https://github.com/ritualspm/claude-101/releases/latest)
+### [⬇️  Download the course](https://github.com/ritualspm/claude-101/releases/latest)
 
 <sub>Then open it in Claude Cowork and type `go`. That's the whole setup.</sub>
 
@@ -31,46 +31,46 @@ A hands-on onboarding that teaches you to actually work with Claude — not by w
 
 ## 🧭 What this is
 
-Most tool training is a doc you skim once and forget. This is the opposite: a **course that runs inside Claude itself.**
+Most tool training is a doc you skim once and forget. This is the opposite. It's a **course that runs inside Claude itself.**
 
-Every lesson teaches **one** idea, checks that it landed with a quick tap, then has you *do the real thing* — point Claude at a folder of docs, draft a message, build your first shortcut, stress-test a plan with a simulated VP. You finish each one able to work differently, not just nod along.
+Every lesson teaches one idea, checks that it landed with a quick tap, then hands it to you to do for real. You point Claude at a folder of messy docs. You draft a tricky message. You build your first shortcut. You put a plan in front of a simulated VP and watch it get picked apart. By the end of each lesson you can genuinely work differently, not just nod along.
 
-No prior experience assumed. No code, ever. If you can open an app and type, you can do this.
+No experience needed. No code, ever. If you can open an app and type, you're ready.
 
-> **Think of it as your first 8 hours with Claude, compressed into 25 wins.**
+> Think of it as your first full day with Claude, squeezed into 25 small wins.
 
 ---
 
 ## ⚡ Start in 60 seconds
 
-You only need the **Claude desktop app** — [get it here](https://claude.ai/download) if you don't have it.
+You only need the **Claude desktop app**. [Grab it here](https://claude.ai/download) if you don't have it yet.
 
 <table>
 <tr>
 <td width="60" align="center"><h2>1</h2></td>
-<td><b>Download the course</b><br><a href="https://github.com/ritualspm/claude-101/releases/latest">Grab the latest release ZIP</a> and unzip it anywhere (Desktop is fine).<br><sub>Prefer git? <code>git clone https://github.com/ritualspm/claude-101.git</code></sub></td>
+<td><b>Download the course</b><br><a href="https://github.com/ritualspm/claude-101/releases/latest">Get the latest release ZIP</a> and unzip it anywhere. Your Desktop is fine.<br><sub>Prefer git? <code>git clone https://github.com/ritualspm/claude-101.git</code></sub></td>
 </tr>
 <tr>
 <td align="center"><h2>2</h2></td>
-<td><b>Open it in Cowork</b><br>Launch the Claude desktop app → <b>Cowork</b> → open that folder as a project.</td>
+<td><b>Open it in Cowork</b><br>Launch the Claude desktop app, go to <b>Cowork</b>, and open that folder as a project.</td>
 </tr>
 <tr>
 <td align="center"><h2>3</h2></td>
-<td><b>Type <code>go</code></b><br>Sam greets you and starts Lesson 1. Your progress saves automatically, on your machine.</td>
+<td><b>Type <code>go</code></b><br>Sam says hello and starts Lesson 1. Your progress saves on its own, right on your machine.</td>
 </tr>
 </table>
 
-That's it. No accounts to make, nothing to install beyond the app itself.
+That's it. Nothing to sign up for, nothing to install beyond the app itself.
 
 ---
 
-## 🗺️ The journey — 4 levels, 25 lessons
+## 🗺️ The journey: 4 levels, 25 lessons
 
 | Level | Theme | You walk out able to… | Lessons |
 |:---:|---|---|:---:|
 | **1** | **Get Oriented** | Navigate Claude with confidence and land your first real wins | 7 |
 | **2** | **Make It Yours** | Set Claude up so it knows you, your team, and how you work | 8 |
-| **3** | **Power Moves** | Orchestrate a *team* of helpers — skills, agents, a leadership panel | 8 |
+| **3** | **Power Moves** | Run a *team* of helpers: skills, agents, and a leadership panel | 8 |
 | **4** | **Frontier** *(optional)* | Build things, and get answers you can actually trust | 2 |
 
 <details>
@@ -79,37 +79,37 @@ That's it. No accounts to make, nothing to install beyond the app itself.
 <br>
 
 **Level 1 · Get Oriented**
-- `L1.1` **The Three Doors** — Chat / Cowork / Code, and why Cowork is home
-- `L1.2` **Folder-First** — point Claude at a pile of docs and make sense of it
-- `L1.3` **Search Your World** — find decisions across Slack / Confluence / email
-- `L1.4` **Analytics in Plain English** — ask data questions, no SQL
-- `L1.5` **Everyday Drafting** — messages, one-pagers, meeting prep (draft-never-send)
-- `L1.6` **Prompting That Works** — format, role, self-critique, iterate
-- `L1.7` **Trust & Verification** — spot when Claude is wrong; when *not* to use it
+- `L1.1` **The Three Doors:** Chat, Cowork, Code, and why Cowork is home
+- `L1.2` **Folder-First:** point Claude at a pile of docs and make sense of it
+- `L1.3` **Search Your World:** find decisions across Slack, Confluence, email
+- `L1.4` **Analytics in Plain English:** ask data questions, no SQL
+- `L1.5` **Everyday Drafting:** messages, one-pagers, and meeting prep (draft, never send)
+- `L1.6` **Prompting That Works:** format, role, self-critique, iterate
+- `L1.7` **Trust and Verification:** spot when Claude is wrong, and when not to lean on it
 
 **Level 2 · Make It Yours**
-- `L2.1` **Connect Your Tools (MCP)** — Slack, Confluence, Jira, BigQuery
-- `L2.2` **One Brain, Many Helpers** — the main agent & sub-agents
-- `L2.3` **Your Rulebook (CLAUDE.md)** — the rules Claude reads every session
-- `L2.4` **Memory** — stop re-explaining yourself
-- `L2.5` **Your Home Base** — a tour of `~/.claude/`
-- `L2.6` **Model & Effort** — Haiku / Sonnet / Opus, and what to pay for
-- `L2.7` **Context & Continuity** — the context window and `/compact`
-- `L2.8` **Responsible & Safe Use** — PII/PCI, confidentiality, what's safe to share
+- `L2.1` **Connect Your Tools (MCP):** Slack, Confluence, Jira, BigQuery
+- `L2.2` **One Brain, Many Helpers:** the main agent and its sub-agents
+- `L2.3` **Your Rulebook (CLAUDE.md):** the rules Claude reads every session
+- `L2.4` **Memory:** stop re-explaining yourself
+- `L2.5` **Your Home Base:** a tour of `~/.claude/`
+- `L2.6` **Model and Effort:** Haiku, Sonnet, Opus, and what to pay for
+- `L2.7` **Context and Continuity:** the context window and `/compact`
+- `L2.8` **Responsible and Safe Use:** PII, PCI, confidentiality, what's safe to share
 
 **Level 3 · Power Moves**
-- `L3.1` **Skills** — turn a repeated workflow into one command
-- `L3.2` **Find & Trust a Skill** — discover skills you didn't build, and size one up before you run it
-- `L3.3` **Agents & Personas** — simulate a stakeholder
-- `L3.4` **The Leadership Panel** — stress-test a plan with three personas
-- `L3.5` **Composition** — chain skills + agents + tools in one move
-- `L3.6` **Working Agentically** — give a goal + permissions, let it run
-- `L3.7` **Producing Deliverables** — turn raw notes into polished artifacts
-- `L3.8` **Sharing With Your Team** — turn your setup into org leverage
+- `L3.1` **Skills:** turn a repeated workflow into one command
+- `L3.2` **Find and Trust a Skill:** discover skills you didn't build, and size one up before you run it
+- `L3.3` **Agents and Personas:** simulate a stakeholder
+- `L3.4` **The Leadership Panel:** stress-test a plan with three personas at once
+- `L3.5` **Composition:** chain skills, agents, and tools in one move
+- `L3.6` **Working Agentically:** give a goal and some permissions, then let it run
+- `L3.7` **Producing Deliverables:** turn raw notes into polished artifacts
+- `L3.8` **Sharing With Your Team:** turn your setup into leverage for everyone
 
 **Level 4 · Frontier** *(optional)*
-- `L4.1` **Vibe Coding** — build a prototype by describing it
-- `L4.2` **Grounded Knowledge Base** — cited, trustworthy answers from your own docs
+- `L4.1` **Vibe Coding:** build a prototype just by describing it
+- `L4.2` **Grounded Knowledge Base:** cited, trustworthy answers from your own docs
 
 </details>
 
@@ -117,9 +117,9 @@ That's it. No accounts to make, nothing to install beyond the app itself.
 
 ## 🎮 How it feels
 
-- **One tap to check you got it.** Concepts end in a clickable multiple-choice question — think for a second, tap, move on. No essays to pass a checkpoint.
-- **Then you do the real thing.** Every lesson ships its own demo files, so the exercises work out of the box — no need to wire up Slack or a database first.
-- **It remembers where you are.** Leave anytime; come back and type `go` to pick up exactly where you left off.
+- **One tap to check it landed.** Each concept ends with a clickable question. Think for a second, tap, move on. No essays just to clear a checkpoint.
+- **Then you do the real thing.** Every lesson comes with its own demo files, so the exercises work the moment you open them. No wiring up Slack or a database first.
+- **It remembers where you are.** Leave whenever you like. Come back, type `go`, and you pick up exactly where you left off.
 
 **Handy commands, any time:**
 
@@ -136,46 +136,46 @@ That's it. No accounts to make, nothing to install beyond the app itself.
 
 ## 🛡️ Safe by design
 
-The course builds these habits from lesson one — so you learn to use Claude *well*, not just fast:
+The course builds these habits from the very first lesson, so you learn to use Claude well, not just fast:
 
-- **Draft, never send** — anything outward (Slack, email, Jira) is drafted for your approval, never fired off automatically.
-- **Read-only on real data** — connected tools are for reading and summarizing in the exercises, never writing.
-- **No customer PII / payment data in prompts** — you learn to anonymize real operational data first.
-- **Right-sized model** — everyday work on Sonnet for speed and cost; the heavy model only for genuinely hard problems.
+- **Draft, never send.** Anything that goes outward (Slack, email, Jira) is drafted for your approval, never fired off on its own.
+- **Read-only on real data.** Connected tools are for reading and summarizing in the exercises, never writing.
+- **No customer PII or payment data in prompts.** You learn to anonymize real operational data first.
+- **The right-sized model.** Everyday work runs on Sonnet for speed and cost. The heavy model is saved for genuinely hard problems.
 
-Your progress and anything you type stays **on your own machine.**
+Your progress, and anything you type, stays on your own machine.
 
 ---
 
 ## ❓ FAQ
 
-**Do I need to know how to code?** No. The course never shows you code and assumes zero technical background.
+**Do I need to know how to code?** No. The course never shows you code and assumes no technical background at all.
 
-**How long does it take?** About 20 minutes a lesson. Do one a day, or binge a level — it's yours to pace.
+**How long does it take?** About 20 minutes a lesson. Do one a day, or binge a whole level. It's yours to pace.
 
-**Is my data safe?** Yes — you work on included demo files, progress saves locally, and the guardrails above are baked in.
+**Is my data safe?** Yes. You work on the included demo files, your progress saves locally, and the guardrails above are built in.
 
-**Do I need a terminal or GitHub account?** No. Just the Claude desktop app. The download button above is all you need.
+**Do I need a terminal or a GitHub account?** No. Just the Claude desktop app. The download button above is all you need.
 
-**I got the ZIP — now what?** Unzip it, open the Claude desktop app → Cowork → open the folder → type `go`.
+**I've got the ZIP, now what?** Unzip it, open the Claude desktop app, go to Cowork, open the folder, and type `go`.
 
 ---
 
 ## 🔧 For maintainers
 
-- Edit lessons / engine → PR → merge into `main`.
-- **Publish a new version:** bump `VERSION`, add a `CHANGELOG.md` entry, tag it, run `./release.sh`, and attach the zip from `dist/` to a new [GitHub Release](https://github.com/ritualspm/claude-101/releases). Full process in **[RELEASE.md](RELEASE.md)**.
-- `./release.sh` produces a clean, learner-ready folder + zip (includes `.claude/`, strips `.git` and dev files, resets progress).
+- Edit a lesson or the engine, open a PR, merge into `main`.
+- **Publish a new version:** bump `VERSION`, add a `CHANGELOG.md` entry, tag it, run `./release.sh`, then attach the zip from `dist/` to a new [GitHub Release](https://github.com/ritualspm/claude-101/releases). The full process lives in **[RELEASE.md](RELEASE.md)**.
+- `./release.sh` produces a clean, learner-ready folder and zip. It includes `.claude/`, strips `.git` and dev files, and resets progress.
 
 <details>
 <summary>Repo layout</summary>
 
 ```
-CLAUDE.md          the tutor engine — read automatically on start
-lessons/           all 25 lesson files (L1.1 … L4.2)
+CLAUDE.md          the tutor engine, read automatically on start
+lessons/           all 25 lesson files (L1.1 through L4.2)
 sandboxes/         self-contained demo data for the exercises
 scoring-rubrics.md rubric for L1.1 (later lessons embed their own)
-SYLLABUS.md        full course map + coverage of source material
+SYLLABUS.md        full course map and coverage of source material
 release.sh         packages a learner-ready build
 RELEASE.md         how to cut a release
 progress/          learner progress (local, per machine)
@@ -191,14 +191,14 @@ progress/          learner progress (local, per machine)
 
 Claude 101 © 2026 **rituals.pm**, licensed under [**CC BY-NC 4.0**](LICENSE).
 
-**You may** take the course, share it, and adapt it — for free, with credit to rituals.pm.
-**You may not** use it commercially (resell it, put it behind a paywall, or rebrand it as your own paid offering). For commercial use, [get in touch](https://rituals.pm).
+**You may** take the course, share it, and adapt it, for free, with credit to rituals.pm.
+**You may not** use it commercially: no reselling, no paywall, no rebranding it as your own paid offering. Need commercial use? [Come say hello](https://rituals.pm).
 
 ---
 
 <div align="center">
 
-Made with care by **[rituals.pm](https://rituals.pm)** — Elevating product taste.
+Made with care by **[rituals.pm](https://rituals.pm)**. Elevating product taste.
 
 **_Learn Claude by using Claude._**
 
