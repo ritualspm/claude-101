@@ -1,0 +1,7 @@
+# This repo is a Markdown course, not a shell project.
+# By default GitHub's Linguist ignores Markdown (treated as prose) and would
+# label the repo "Shell" because of the single release.sh packaging script.
+# These overrides make the language bar reflect the real content.
+
+*.md linguist-detectable=true
+release.sh linguist-vendored=true
